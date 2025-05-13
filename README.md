@@ -1,5 +1,7 @@
 # Ângelo Victor
-Apaixonado por tecnologia, já atuei em várias frentes como suporte, manutenção de computadores e impressoras, redes, automação, gráfica e atualmente na área que sempre desejei ingressar que é desenvolvimento. Gosto de aprender tecnologias novas e ficar sempre atualizado sobre esse universo. Também sou bastante comunicativo, com uma boa relação interpessoal, trabalhando bem em equipe, interagindo com soluções ágeis e criativas.
+Sou um desenvolvedor front-end apaixonado por tecnologia e inovação. Atualmente, trabalho na Avanade, uma empresa líder em soluções digitais e na nuvem, onde aplico meus conhecimentos em Liferay, JavaScript, jQuery e controle de versão para criar interfaces dinâmicas e responsivas para clientes de diversos setores.
+
+Além da minha experiência profissional, tenho formação técnica em Informática para Internet pela UNIBRATEC e superior em Sistemas para Internet pela Universidade Católica de Pernambuco. Possuo também as certificações CCNA R&S da Cisco, que comprovam minhas habilidades em redes e sistemas, além de seis certificações Microsoft. Meu objetivo é continuar me aprimorando e contribuindo para o desenvolvimento de soluções digitais inovadoras e de alta qualidade.
 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-3f3f3f?style=for-the-badge&logo=github)](https://github.com/angelovictor)
